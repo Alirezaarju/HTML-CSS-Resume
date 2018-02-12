@@ -1,0 +1,120 @@
+@media (min-width: 933px) and (max-width: 1399px) {
+
+header, footer {
+   padding:1em;
+    color: white;
+    background-color: black; 
+    text-align: center;
+
+}
+div.img{
+text-align: right;
+border: 20%;
+margin-right:80px;
+margin-top: 55px;
+	
+}
+div.container {
+    width: 100%;
+    border: 2px solid gray;
+    border-left: 3px;
+    text-align: left;
+    margin-top: -240px;
+   
+}
+}
+   @media (min-width: 467px) and (max-width: 932px){
+
+  	header, footer {
+    padding:1em;
+    color: white;
+    background-color: blue;
+    text-align: center;
+
+}
+div.img{
+	display: block;
+text-align: right;
+
+margin-top: 55px;
+	
+}
+div.container {
+
+    width: 100%;
+    border: 2px solid gray;
+    border-left: 3px;
+    text-align: left;
+    margin-top: -240px;
+   
+}
+}
+
+   @media (min-width: 0px) and (max-width: 466px){
+
+  	header, footer {
+    padding:1em;
+    color: white;
+    background-color: red;
+ 
+    text-align: center;
+}
+div.img{
+text-align: right;
+border: 20%;
+margin:50px;
+
+}
+div.container{
+text-align: left;
+border: 20%;
+margin-right:80px;
+margin-top: 60px;
+	
+}	
+}
+.subDetails{
+    margin-left:40px;
+    font-size: 25px;
+}
+ul,li{color:black;
+	font-size: 20px;
+
+}
+p{
+	margin-left: 20px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+        margin-left: 45px;
+
+}
+td, th {
+    border: 3px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+#mainBody{
+	background-color:Violet;
+}
+h1{
+border-left: 6px solid red;
+    background-color: lightgrey;
+font-size:150%;
+margin-left:10px;
+}
+h2,h3{
+	font-size:150%;
+margin-left:10px;
+
+}
+job-ac{
+    margin-left:px;
+}
+#pdf{
+    color: blue;
+    font-size:50%;
+}
+
